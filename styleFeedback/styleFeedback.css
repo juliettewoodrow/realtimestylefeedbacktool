@@ -1,0 +1,16 @@
+.style-feedback-left-side {
+    float: left;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.style-feedback-right-side {
+    float: right;
+    width: 50%;
+    overflow: auto;
+}
+
+.style-feedback-container {
+    max-width: 1100px;
+}
